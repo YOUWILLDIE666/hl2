@@ -63,8 +63,8 @@ Half-width Katakana// IME_HalfWidthKatakana
 Half-width Alphanumeric// IME_HalfWidthAlphanumeric
 
 General// IME_General
-Bias f\or Names// IME_BiasNames
-Bias f\or Speech// IME_BiasSpeech
+Bias for Names// IME_BiasNames
+Bias for Speech// IME_BiasSpeech
 No Conversion// IME_NoConversion
 
 Chinese (Taiwan)// IME_0404
