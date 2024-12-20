@@ -1,11 +1,11 @@
-Special Offers
-Friends
-Play Games
-Browse Games
-Servers
-Web browser
-My Servers
-Account
-Settings
-Monitor
-News
+Special Offers// App_SpecialOffers
+Friends// App_Friends
+Play Games// App_Games
+Browse Games// App_Storefront
+Servers// App_Servers
+Web browser// App_Browser
+My Servers// Admin_Servers
+Account// App_Account
+Settings// App_Settings
+Monitor// App_Monitor
+News// App_News
