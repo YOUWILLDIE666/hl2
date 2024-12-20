@@ -1,0 +1,217 @@
+Cut// TextEntry_Cut
+Copy// TextEntry_Copy
+Paste// TextEntry_Paste
+Open// FileOpenDialog_Open
+Save// FileOpenDialog_Save
+Select// FileOpenDialog_Select
+Cancel// FileOpenDialog_Cancel
+Look in:// FileOpenDialog_Look_in
+File name:// FileOpenDialog_File_Name
+Directory name:// FileOpenDialog_Directory_Name
+File type:// FileOpenDialog_File_Type
+ // FileOpenDialog_Icon
+Name// FileOpenDialog_Name
+Type// FileOpenDialog_Type
+
+ Minimize // SysMenu_Minimize
+ Maximize // SysMenu_Maximize
+ Close // SysMenu_Close
+Untitled// Frame_Untitled
+OK// MessageBox_OK
+OK// PropertyDialog_OK
+Cancel// PropertyDialog_Cancel
+Apply// PropertyDialog_Apply
+Cancel// QueryBox_Cancel
+Next >// WizardPanel_Next
+< Back// WizardPanel_Back
+Finish// WizardPanel_Finish
+Cancel// WizardPanel_Cancel
+OK// vgui_ok
+Close// vgui_close
+Cancel// vgui_Cancel
+Select// vgui_select
+Create Folder...// vgui_createfolder
+Next >// vgui_next
+< Back// vgui_back
+%s1 minutes %s2 seconds// vgui_TimeLeftMinutesSeconds
+%s1 minute %s2 seconds// vgui_TimeLeftMinuteSeconds
+%s1 minutes %s2 second// vgui_TimeLeftMinutesSecond
+%s1 minute %s2 second// vgui_TimeLeftMinuteSecond
+%s1 seconds// vgui_TimeLeftSeconds
+%s1 second// vgui_TimeLeftSecond
+%s1 minutes %s2 seconds remaining// vgui_TimeLeftMinutesSecondsRemaining
+%s1 minute %s2 seconds remaining// vgui_TimeLeftMinuteSecondsRemaining
+%s1 minutes %s2 second remaining// vgui_TimeLeftMinutesSecondRemaining
+%s1 minute %s2 second remaining// vgui_TimeLeftMinuteSecondRemaining
+%s1 seconds remaining// vgui_TimeLeftSecondsRemaining
+%s1 second remaining// vgui_TimeLeftSecondRemaining
+Create Directory - Error// vgui_CreateDirectoryFail_Title
+Failed to create directory, drive is read-only.// vgui_CreateDirectoryFail_Info
+That folder already exists.// vgui_CreateDirectoryFail_AlreadyExists
+
+Language// TextEntry_Language
+Conversion Mode// TextEntry_ConversionMode
+Sentence Mode// TextEntry_SentenceMode
+
+English// IME_English
+Chinese// IME_Chinese
+Korean// IME_Korean
+Hiragana// IME_Hiragana
+Full-width Katakana// IME_FullWidthKatakana
+Full-width Alphanumeric// IME_FullWidthAlphanumeric
+Half-width Katakana// IME_HalfWidthKatakana
+Half-width Alphanumeric// IME_HalfWidthAlphanumeric
+
+General// IME_General
+Bias f\or Names// IME_BiasNames
+Bias f\or Speech// IME_BiasSpeech
+No Conversion// IME_NoConversion
+
+Chinese (Taiwan)// IME_0404
+Chinese (PRC)// IME_0804
+English (United States)// IME_0409
+Japanese// IME_0411
+Korean// IME_0412
+Russian// IME_0419
+Thai// IME_041e
+
+French (Standard)// IME_040c
+German (Standard)// IME_0407
+Italian (Standard)// IME_0410
+Spanish (Spain, Traditional Sort)// IME_040a
+
+Key Bindings Editor// KBEditorTitle
+OK// KBEditorSave
+Cancel// KBEditorCancel
+Revert Changes// KBEditorRevert
+Use Defaults// KBEditorUseDefaults
+Name// KBEditorBindingName
+Current Binding// KBEditorBinding
+Modifiers// KBEditorModifiers
+Command// KBEditorCommand
+Description// KBEditorDescription
+Shift// KBEditor_SHIFT
+Ctrl// KBEditor_CONTROL
+Alt// KBEditor_ALT
+
+Key Bindings Help// KBHelpDialogTitle
+Edit...// KBHelpEditBindings
+
+Custom Binding Properties// KBCustomBindingEdit
+Binding Name// KBCustomBindingName
+Command// KBCustomBindingCommand
+
+Name// FileOpenDialog_Col_Name
+Size// FileOpenDialog_Col_Size
+Type// FileOpenDialog_Col_Type
+Date Modified// FileOpenDialog_Col_DateModified
+Date Created// FileOpenDialog_Col_DateCreated
+Attributes// FileOpenDialog_Col_Attributes
+File Folder// FileOpenDialog_FileType_Folder
+Up// FileOpenDialog_ToolTip_Up
+New Folder// FileOpenDialog_ToolTip_NewFolder
+New Folder// FileOpenDialog_NewFolder_InputTitle
+Name:// FileOpenDialog_NewFolderPrompt
+New Folder// FileOpenDialog_NewFolder_DefaultName
+Open In Explorer// FileOpenDialog_ToolTip_OpenInExplorerButton
+Open In Finder// FileOpenDialog_ToolTip_OpenInFinderButton
+Open In Desktop Manager// FileOpenDialog_ToolTip_OpenInDesktopManagerButton
+
+Name// PerforceFileList_Col_Name
+Size// PerforceFileList_Col_Size
+Type// PerforceFileList_Col_Type
+Attributes// PerforceFileList_Col_Attributes
+File Folder// PerforceFileList_FileType_Folder
+Up One Folder// PerforceFileList_ToolTip_Up
+In Perforce// PerforceFileList_Col_InPerforce
+Synched// PerforceFileList_Col_Synched
+Checked Out// PerforceFileList_Col_Checked_Out
+
+New...// AssetBuilder_FileNew
+Open...// AssetBuilder_FileOpen
+Save// AssetBuilder_FileSave
+Save as...// AssetBuilder_FileSaveAs
+Save as...// AssetBuilder_FileSaveAs
+Add// AssetBuilder_AddSource
+Remove// AssetBuilder_RemoveSource
+Apply// AssetBuilder_ApplyChanges
+Duplicate source name!// AssetBuilder_DuplicateSourceTitle
+This source already exists in the list of sources of this type!// AssetBuilder_DuplicateSourceText
+Invalid save file name!// AssetBuilder_CannotRenameSourceFiles
+Cannot compute the relative file name of some sources in this file!// AssetBuilder_CannotRenameSourceFilesText
+Compile// AssetBuilder_Compile
+Publish// AssetBuilder_Publish
+Abort// AssetBuilder_AbortCompile
+
+Rescan// AssetPicker_Rescan
+
+Duplicate DCC object name!// DmeSourceDCCFile_DuplicateSourceTitle
+This DCC object already exists in the list of DCC objects!// DmeSourceDCCFile_DuplicateSourceText
+
+Group Controls// DmeCombinationSystemEditor_GroupControls
+Ungroup Controls// DmeCombinationSystemEditor_UngroupControls
+Stereo Control// DmeCombinationSystemEditor_StereoControl
+Eyelid Control// DmeCombinationSystemEditor_EyelidControl
+Rename Control...// DmeCombinationSystemEditor_RenameControl
+Duplicate Control Name Specified!// DmeCombinationSystemEditor_DuplicateNameTitle
+Control names must be unique. Please enter a different control name.// DmeCombinationSystemEditor_DuplicateNameText
+Add Domination Rule// DmeCombinationSystemEditor_AddDominationRule
+Remove Domination Rule// DmeCombinationSystemEditor_RemoveDominationRule
+Duplicate Suppressed// DmeCombinationSystemEditor_DuplicateSuppressed
+Duplicate Dominators// DmeCombinationSystemEditor_DuplicateDominators
+Select Dominators...// DmeCombinationSystemEditor_SelectDominators
+Select Suppressed...// DmeCombinationSystemEditor_SelectSuppressed
+Move Up// DmeCombinationSystemEditor_MoveUp
+Move Down// DmeCombinationSystemEditor_MoveDown
+Toggle Wrinkle Type// DmeCombinationSystemEditor_ToggleWrinkleType
+Import Combination Rules...// DmeCombinationSystemEditor_Import
+Import Domination Rules...// DmeCombinationSystemEditor_ImportDomination
+
+Add Preset Group...// DmePresetGroupEditor_AddGroup
+Add Phoneme Preset Group// DmePresetGroupEditor_AddPhonemeGroup
+Rename Preset Group...// DmePresetGroupEditor_RenameGroup
+Remove Preset Group// DmePresetGroupEditor_RemoveGroup
+Toggle Group Visibility// DmePresetGroupEditor_ToggleVisibility
+Toggle Group Sharing// DmePresetGroupEditor_ToggleSharing
+
+Add Preset...// DmePresetGroupEditor_AddPreset
+Rename Preset...// DmePresetGroupEditor_RenamePreset
+Rename Preset// DmePresetGroupEditor_RemovePreset
+Move Up// DmePresetGroupEditor_MoveUp
+Move Down// DmePresetGroupEditor_MoveDown
+Import Presets...// DmePresetGroupEditor_MoveDown
+Import Phonemes...// DmePresetGroupEditor_ImportPresets
+Export Presets...// DmePresetGroupEditor_ImportPhonemes
+Export Presets to .TXT...// DmePresetGroupEditor_ExportPresetsToFaceposer
+Export Presets to .VFE...// DmePresetGroupEditor_ExportPresetsToExpression
+Duplicate Preset Group Name Specified!// DmePresetGroupEditor_DuplicateNameTitle
+Preset group names must be unique. Please enter a different group name.// DmePresetGroupEditor_DuplicateNameText
+Duplicate Preset Name Specified!// DmePresetGroupEditor_DuplicatePresetNameTitle
+Preset names must be unique. Please enter a different preset name.// DmePresetGroupEditor_DuplicatePresetNameText
+Cannot Remove Preset Group!// DmePresetGroupEditor_CannotRemovePresetGroupTitle
+The procedural preset group cannot be removed.// DmePresetGroupEditor_CannotRemovePresetGroupText
+Edit Preset Remapping...// DmePresetGroupEditor_EditPresetRemapping
+Remove Default Controls// DmePresetGroupEditor_RemoveDefaultControls
+Remap Presets// DmePresetGroupEditor_RemapPresets
+
+Select Source Preset...// DmePresetRemapPanel_SelectPreset
+Clear Source Preset// DmePresetRemapPanel_RemovePreset
+
+Console// Console_Title
+Submit// Console_Submit
+
+Error// vgui_Webkit_error_title
+Error Code: // vgui_Webkit_error_header
+Unable to load page, unsupported page format// vgui_Webkit_pagetypeunsupported
+Unable to load page, unsupported page format// vgui_Webkit_pagetypeunsupported
+Your form request has expired. Click reload to re-submit the form data.// vgui_Webkit_cachemiss
+Unable to load URL, bad hostname or format// vgui_Webkit_badurl
+Unable to connect to server. Server may be offline or you may not connected to the internet.// vgui_Webkit_connectionproblem
+Unable to connect to HTTP Proxy. Your proxy may be misconfigured or offline.// vgui_Webkit_proxyconnectionproblem
+Failed to load web page (unknown error).// vgui_Webkit_unknown
+Back// vgui_HTMLBack
+Forward// vgui_HTMLForward
+Reload// vgui_HTMLReload
+Stop// vgui_HTMLStop
+View Source...// vgui_HTMLViewSource
+Copy Link Address// vgui_HTMLCopyUrl
