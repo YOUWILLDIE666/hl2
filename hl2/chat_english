@@ -1,0 +1,10 @@
+Filters// chat_filterbutton
+Joins/Leaves// filter_joinleave
+Name Changes// filter_namechange
+Public Chat// filter_publicchat
+Server Messages// filter_servermsg
+Team Changes// filter_teamchange
+Achievement Announce// filter_achievement
+Say :// chat_say
+Say (TEAM) :// chat_say_team
+Say (PARTY) :// chat_say_party
