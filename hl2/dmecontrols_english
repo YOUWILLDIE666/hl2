@@ -1,0 +1,44 @@
+Properties// DmeElementProperties
+Properties Tree// DmeElementPropertiesTree
+
+New Element// DmeElementPropertiesNewElement
+Replace Element// DmeElementPropertiesReplaceElement
+Add Element// DmeElementPropertiesAddElement
+Add Attribute// DmeElementPropertiesAddAttribute
+Add Item// DmeElementPropertiesAddItem
+Remove// DmeElementPropertiesRemove
+Clear// DmeElementPropertiesClear
+Delete// DmeElementPropertiesDelete
+Cut// DmeElementPropertiesCut
+Copy// DmeElementPropertiesCopy
+Paste// DmeElementPropertiesPaste
+Paste Special// DmeElementPropertiesPasteSpecial
+Sort By Name// DmeElementPropertiesSortByName
+Adopt Orphaned Scene Elements// DmeElementPropertiesAdoptOrphanedSceneElements
+Remove Orphaned ChannelsClips// DmeElementPropertiesRemoveOrphanedChannelsClips
+Remove Redundant Keys in Logs// DmeElementPropertiesRemoveRedundantKeysInLogs
+Remove Constant Valued Channels// DmeElementPropertiesRemoveConstantValuedChannels
+Generate Log// DmeElementPropertiesShowLogGenerationDialog
+Filter Log// DmeElementPropertiesShowLogFilterDialog
+Trim Handles// DmeElementPropertiesTrimHandles
+Rename...// DmeElementPropertiesRename
+
+Internalize Element...// DmeElementPropertiesRemoveFileAssociation
+Externalize Element...// DmeElementPropertiesChangeFileAssociation
+Import Element...// DmeElementPropertiesImportElement
+Export Element...// DmeElementPropertiesExportElement
+
+Delete item(s)// ondelete
+Delete selected items and select item to right.// elementpropertiestree_ondelete_help
+Delete item(s)// onbackspace
+Delete selected items and select item to left.// elementpropertiestree_ondelete_help
+Group item(s)// OnGroup
+Group selected dags.// elementpropertiestree_ongroup_help
+Toggle visibility on item(s)// OnToggleVisibility
+Toggle visibility (or mute) for selected items.// elementpropertiestree_ontogglevisibility_help
+Refresh// OnRefresh
+Refreshes the tool UI's to reflect changes made.// elementpropertiestree_onrefresh_help
+
+Back// Dme_NavBack
+Forward// Dme_NavForward
+Search:// Dme_NavSearch
