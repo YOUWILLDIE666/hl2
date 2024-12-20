@@ -1,0 +1,10 @@
+%xmove% MOVE ARM %+attack% PICKUP/DROP OBJECT// Deck_Valve_Hint_CraneKeys
+%xsteer% MOVE ARM %xaccel% LOWER ARM %xbrake% RAISE ARM %+attack% PICKUP/DROP OBJECT// Deck_Valve_Hint_CraneKeys_SeparateAccelBrake
+%xaccel% ACCELERATE %xbrake% BRAKE %xsteer% STEER %xlook% LOOK// Deck_Valve_Hint_BoatKeys_SeparateAccelBrake
+%xmove% ACCELERATE/STEER %xlook% LOOK// Deck_Valve_Hint_BoatKeys
+%xmove% TO MOVE %xlook% TO LOOK// Deck_Valve_Hint_Movement
+%xmove% TO MOVE %xlook% TO LOOK// Deck_hint_move_ctrls
+Open Steam Input Configurator// Deck_Open_Steam_Input
+Post-game Radios// Deck_Radios
+Bonus Maps// Deck_BonusMaps
+Challenge// Deck_Challenges
